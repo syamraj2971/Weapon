@@ -1,0 +1,3 @@
+Executed SQL Statement : SELECT * FROM `mysql`.`db` WHERE User = 'pma' AND Host = 'localhost' 
+Error Number : 1030 
+Error Message: Got error 176 "Read page with wrong checksum" from storage engine Aria 
